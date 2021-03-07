@@ -1,0 +1,3 @@
+var password = "tigerpunch"
+const jwt = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IlJhbmRhbGwgRGVnZ2VzIiwiaWF0IjoxNTE2MjM5MDIyfQ.sNMELyC8ohN8WF_WRnRtdHMItOVizcscPiWsQJX9hmw
+"
